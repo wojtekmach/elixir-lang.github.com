@@ -5,7 +5,7 @@ elixir_url: http://elixir-lang.org
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>Elixir Lang</title>
+<title>Blog - The Elixir programming language</title>
 <link href="{{ page.elixir_url }}/atom.xml" rel="self"/>
 <link href="{{ page.elixir_url }}"/>
 <updated>{{ site.time | date_to_xmlschema }}</updated>
